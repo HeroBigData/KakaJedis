@@ -11,7 +11,7 @@
 
 /**   
  * @Title: LogAnalyzerUtils.java 
- * @Package xyz.taotao.common.util 
+ * @Package xyz.kaka.common.util 
  * @Description: TODO(用一句话描述该文件做什么) 
  * @Company: xyz.hero.cao
  * @author HeroCao herobigdatacao@126.com  

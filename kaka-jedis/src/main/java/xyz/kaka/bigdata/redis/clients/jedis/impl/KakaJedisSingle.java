@@ -11,7 +11,7 @@
 
 /**   
  * @Title: KakaJedisSingle.java 
- * @Package xyz.taotao.common.redis.clients.jedis.impl 
+ * @Package xyz.kaka.common.redis.clients.jedis.impl 
  * @Description: TODO(用一句话描述该文件做什么) 
  * @Company: kaka.bigdata
  * @author HeroCao herobigdatacao@126.com  

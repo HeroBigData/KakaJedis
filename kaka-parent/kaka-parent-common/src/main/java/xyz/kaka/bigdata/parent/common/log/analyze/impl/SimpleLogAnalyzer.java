@@ -11,7 +11,7 @@
 
 /**   
  * @Title: SimpleLogAnalyzer.java 
- * @Package xyz.taotao.common.log.analyze.impl 
+ * @Package xyz.kaka.common.log.analyze.impl 
  * @Description: TODO(用一句话描述该文件做什么) 
  * @Company: xyz.hero.cao
  * @author HeroCao herobigdatacao@126.com  
@@ -43,7 +43,7 @@ public class SimpleLogAnalyzer implements LogAnalyzer {
 	 *  
 	 * @param ex
 	 * @param parameter 
-	 * @see xyz.taotao.common.log.analyze.LogAnalyzer#analyze(java.lang.Exception, java.lang.String) 
+	 * @see xyz.kaka.common.log.analyze.LogAnalyzer#analyze(java.lang.Exception, java.lang.String) 
 	 */
 	@Override
 	public void analyze(Exception ex, String parameter) {

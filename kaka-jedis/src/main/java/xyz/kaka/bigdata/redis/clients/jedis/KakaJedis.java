@@ -11,7 +11,7 @@
      
 /**   
 * @Title: TTJedisClient.java 
-* @Package xyz.taotao.common.redis.jedis 
+* @Package xyz.kaka.common.redis.jedis 
 * @Description: 封装Jedis单机版和集群版接口
 * @Company: kaka.bigdata
 * @author HeroCao herobigdatacao@126.com  

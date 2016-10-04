@@ -11,7 +11,7 @@
      
 /**   
 * @Title: AnalyzeLog.java 
-* @Package xyz.taotao.common.log.analyze 
+* @Package xyz.kaka.common.log.analyze 
 * @Description: TODO(用一句话描述该文件做什么) 
 * @Company: kaka.bigdata
 * @author HeroCao herobigdatacao@126.com  

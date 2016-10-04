@@ -11,7 +11,7 @@
      
 /**   
 * @Title: TTClusterJedis.java 
-* @Package xyz.taotao.common.redis.clients.jedis.impl 
+* @Package xyz.kaka.common.redis.clients.jedis.impl 
 * @Description: Jedis集群封装
 * @Company: xyz.hero.cao
 * @author HeroCao herobigdatacao@126.com  
