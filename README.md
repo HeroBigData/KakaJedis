@@ -1,2 +1,1 @@
-# KakaJedis
-KakaJedis is base the Jedis
+# kaka-jedis 是基于 Jedis 进行封装，封装了单机版和集群版，方便于开发环境和生产环境之间，瞬间切换单机版和集群版，支持 Redis 3.x
